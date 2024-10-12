@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Postly" parent="Theme.Material3.Light.NoActionBar">
+
+
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="backgroundColor">#F7FAFC</item>
+        <item name="android:windowBackground">#F7FAFC</item>
+    </style>
+
+    <style name="Theme.Postly" parent="Base.Theme.Postly" />
+</resources>
